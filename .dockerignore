@@ -1,0 +1,12 @@
+.git
+.github
+.scannerwork
+.vscode
+.gitignore
+.gitattributes
+.dockerignore
+.env
+sonar-project.properties
+npm-debug.log
+node_modules
+Dockerfile
